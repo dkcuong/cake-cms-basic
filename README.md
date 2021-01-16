@@ -4,7 +4,7 @@
 - Run DB file sql
 - Change config DB in env
 - Change permission tmp folder
-  - `chmod -R 77t /tmp`
+    `chmod -R 777 /tmp`\
 - Go link : {{host}}/admin/login
 Done
 
